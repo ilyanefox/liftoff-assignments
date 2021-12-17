@@ -12,7 +12,7 @@ My project will be a to-do list application that will reward the user for checki
 The idea for this project came from the need of a family member with autism spectrum disorder to have extra encouragement to organize and complete tasks, but I think it could be helpful to anyone who has trouble with procrastination or motivation to get daily tasks done and feel better about accomplishing those tasks.
 
 ### Features
-- User Login: Users will be able to log in by creating accounts, or by using third-party authentication. 
+- User Login: Users will be able to log in by creating accounts, or by using Google Authentication. 
 - User Profile: Users will be able to create a profile allowing them to customize their to-do list with their own categories.
 - Create, Edit, and Delete Tasks: Users will be able to add new tasks, edit existing tasks, and delete tasks. Tasks can be deleted either when editing them, or by checking them off the list. 
 - View To-Do List: Users will be able to see the complete list of tasks;
@@ -28,7 +28,8 @@ The idea for this project came from the need of a family member with autism spec
 - Spring Boot(?)
 
 ### What I'll Have to Learn
-I'll have to learn how to use third-party authentication for the login. I have never created a REST API, or connected back-end development with Angular for the front-end, so I will have to learn how to do all of this.
+I'll have to learn how to use the Google Authentication provider for the login. I have never created a REST API, or connected Angular to back-end development, so I will have to learn how to do all of this.
 
 ### Project Tracker
-Link to your Trello board here
+
+[Trello Board] (https://trello.com/b/2838XkH9/liftoff)
