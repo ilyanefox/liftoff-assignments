@@ -32,4 +32,4 @@ I'll have to learn how to use the Google Authentication provider for the login. 
 
 ### Project Tracker
 
-[Trello Board] (https://trello.com/b/2838XkH9/liftoff)
+[Trello Board](https://trello.com/b/2838XkH9/liftoff)
