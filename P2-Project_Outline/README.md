@@ -16,7 +16,7 @@ The idea for this project came from the need of a family member with autism spec
 - User Profile: Users will be able to create a profile allowing them to customize their to-do list with their own categories.
 - Create, Edit, and Delete Tasks: Users will be able to add new tasks, edit existing tasks, and delete tasks. Tasks can be deleted either when editing them, or by checking them off the list. 
 - View To-Do List: Users will be able to see the complete list of tasks;
-- View List by Category: Users will be able to filter the list to view tasks by category label.
+- View List by Category: Users will be able to view tasks by category label.
 - Responsive Design: Users will be able to view the application well on different devices.
 
 ### Technologies
