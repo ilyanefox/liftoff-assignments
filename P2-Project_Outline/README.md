@@ -27,7 +27,7 @@ The idea for this project came from the need of a family member with autism spec
 
 
 ### What I'll Have to Learn
-I'll have to learn how to use the Google Authentication provider for the login. I have never created a REST API, or connected Angular to back-end development, so I will have to learn how to do all of this.
+I'll have to learn how to use the Google Authentication provider for the login. I have never used Angular with Spring Boot, so I will have to learn how to do all of this.
 
 ### Project Tracker
 
