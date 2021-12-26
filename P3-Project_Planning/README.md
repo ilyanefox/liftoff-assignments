@@ -16,7 +16,7 @@ For this assignment, you'll create some initial plans for your project.
 - [View List (All)](https://github.com/ilyanefox/liftoff-assignments/blob/master/ViewList.jpg)
 - [View List (Category)](https://github.com/ilyanefox/liftoff-assignments/blob/master/ViewCategory.jpg)
 - [Congratulations Page](https://github.com/ilyanefox/liftoff-assignments/blob/master/Congrats.jpg)
-- 
+
 ### Project Tracker
 
 https://trello.com/b/2838XkH9/liftoff
