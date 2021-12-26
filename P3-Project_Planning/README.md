@@ -8,11 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- [Home/Login Page](https://github.com/ilyanefox/liftoff-assignments/blob/master/Home_Login.jpg)
+- [Create Account](https://github.com/ilyanefox/liftoff-assignments/blob/master/CreateAccount.jpg)
+- [Create Profile](https://github.com/ilyanefox/liftoff-assignments/blob/master/CreateProfile.jpg)
+- [View Profile](https://github.com/ilyanefox/liftoff-assignments/blob/master/ViewProfile.jpg)
 - [Add Task Page](https://github.com/ilyanefox/liftoff-assignments/blob/master/AddTask.jpg)
+- [View List (All)](https://github.com/ilyanefox/liftoff-assignments/blob/master/ViewList.jpg)
+- [View List (Category)](https://github.com/ilyanefox/liftoff-assignments/blob/master/ViewCategory.jpg)
+- [Congratulations Page](https://github.com/ilyanefox/liftoff-assignments/blob/master/Congrats.jpg)
+- 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/2838XkH9/liftoff
 
 ### Project Repo Link
 
