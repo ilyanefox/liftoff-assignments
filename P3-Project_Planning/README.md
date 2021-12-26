@@ -22,5 +22,4 @@ For this assignment, you'll create some initial plans for your project.
 https://trello.com/b/2838XkH9/liftoff
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+(https://github.com/ilyanefox/todo-list-app)
