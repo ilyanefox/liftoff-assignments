@@ -22,4 +22,4 @@ For this assignment, you'll create some initial plans for your project.
 https://trello.com/b/2838XkH9/liftoff
 
 ### Project Repo Link
-https://github.com/ilyanefox/to-do-app
+https://github.com/ilyanefox/to-do-list-app
