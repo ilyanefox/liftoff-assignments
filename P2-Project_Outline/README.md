@@ -12,12 +12,13 @@ My project will be a to-do list application that will reward the user for checki
 The idea for this project came from the need of a family member with autism spectrum disorder to have extra encouragement to organize and complete tasks, but I think it could be helpful to anyone who has trouble with procrastination or motivation to get daily tasks done and feel better about accomplishing those tasks.
 
 ### Features
-- User Login: Users will be able to log in by creating accounts, or by using Google Authentication. 
+- User Login: Users will be able to register and log in. 
 - Create and Edit User Profile: Users will be able to create a profile which will allow the experience to be more personalized.
 - Create Category Labels: Users will be able to create categories that can be added as labels to tasks.
 - Create and Delete Tasks: Users will be able to add new tasks, and delete tasks. Tasks can be deleted by checking them off the list. 
 - View To-Do List: Users will be able to see the complete list of tasks;
 - View List by Category: Users will be able to view tasks by category label.
+- Rate Priority: Users will be able to set the priority level of each task.
 - Responsive Design: Users will be able to view the application well on different devices.
 
 ### Technologies
