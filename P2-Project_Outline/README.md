@@ -22,14 +22,12 @@ The idea for this project came from the need of a family member with autism spec
 - Responsive Design: Users will be able to view the application well on different devices.
 
 ### Technologies
-- Angular
 - Spring Boot
 - MySQL
 
 
 ### What I'll Have to Learn
-I'll have to learn how to use the Google Authentication provider for the login. I have never used Angular with Spring Boot, so I will have to learn how to do all of this.
-
+I'll have to learn how to use the Google Authentication provider for the login. 
 ### Project Tracker
 
 [Trello Board](https://trello.com/b/2838XkH9/liftoff)
