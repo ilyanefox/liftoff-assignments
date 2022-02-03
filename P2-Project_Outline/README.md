@@ -13,12 +13,11 @@ The idea for this project came from the need of a family member with autism spec
 
 ### Features
 - User Login: Users will be able to register and log in. 
-- Create and Edit User Profile: Users will be able to create a profile which will allow the experience to be more personalized.
 - Create Category Labels: Users will be able to create categories that can be added as labels to tasks.
 - Create and Delete Tasks: Users will be able to add new tasks, and delete tasks. Tasks can be deleted by checking them off the list. 
 - View To-Do List: Users will be able to see the complete list of tasks;
-- View List by Category: Users will be able to view tasks by category label.
-- Rate Priority: Users will be able to set the priority level of each task.
+- Filter List by Category: Users will be able to view tasks by category label.
+- Set Priority: Users will be able to label a task a priority.
 - Responsive Design: Users will be able to view the application well on different devices.
 
 ### Technologies
@@ -27,7 +26,7 @@ The idea for this project came from the need of a family member with autism spec
 
 
 ### What I'll Have to Learn
-I'll have to learn how to use the Google Authentication provider for the login. 
+I'll have to learn how to do responsive design. 
 ### Project Tracker
 
 [Trello Board](https://trello.com/b/2838XkH9/liftoff)
